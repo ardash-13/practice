@@ -1,4 +1,4 @@
-let firstCard = 2;
+let firstCard = 9;
 let secondCard = 11;
 
 let sum = firstCard + secondCard;
