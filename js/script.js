@@ -3,7 +3,7 @@ let secondCard = 11;
 
 let sum = firstCard + secondCard;
 
-function cliked() {
+function clicked() {
     // if (sum < 21) {
     //     alert("do you want to draw a new card?");
     // } else if (sum === 21) {
