@@ -12,3 +12,5 @@ function cliked() {
         alert("you're out of the game.");
     }
 }
+
+alert(sum)
