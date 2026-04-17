@@ -2,9 +2,10 @@
 
 html{
 	font-size: 62.5%;
+	border: 1px solid red;
 }
 
-body{
+header{
 	background: #10172a;
 	color: #eee;
 }
